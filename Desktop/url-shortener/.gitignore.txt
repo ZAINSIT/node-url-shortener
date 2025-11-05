@@ -1,0 +1,7 @@
+node_modules/
+.env
+# Ignore system/user folders
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
